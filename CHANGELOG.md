@@ -1,3 +1,6 @@
+## 0.6.3+2
+* Fix compilation issue with Android
+
 ## 0.6.3+1
 * Fix compilation issue with iOS
 * Bump protobuf version to 1.0.0
